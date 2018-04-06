@@ -1,5 +1,5 @@
 {
-  "name": "code-gov-font",
+  "name": "@code.gov/code-gov-font",
   "version": "0.0.1",
   "description": "Custom font with icons used by code-gov-web. Based on font-awesome. Built using fontello.",
   "main": "index.js",
@@ -18,6 +18,5 @@
   "bugs": {
     "url": "https://github.com/GSA/code-gov-font/issues"
   },
-  "homepage": "https://github.com/GSA/code-gov-font#readme",
-  "private": true
+  "homepage": "https://github.com/GSA/code-gov-font#readme"
 }
