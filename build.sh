@@ -4,8 +4,9 @@ rm -fr css && rm -fr font && rm -fr fontello
 echo "starting to build code-gov font"
 fontello-cli install --config config.json --css css --font font
 
-echo "clear README"
-sed -e '9,19d' README.md
+head README.md -n 8 > NEW_README.md
+echo "copy font face command to new README.md"
+sed -n 1,11p css/code-gov.css >> NEW_README.md
+tail README.md >> NEW_README.md
 
-echo "copy font face command to README.md"
-sed -n 1,11p css/code-gov.css
+mv NEW_README.md README.md

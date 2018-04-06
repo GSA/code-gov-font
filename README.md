@@ -8,12 +8,12 @@ to match you folder structure.
 ```
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?63238540');
-  src: url('../font/code-gov.eot?63238540#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?63238540') format('woff2'),
-       url('../font/code-gov.woff?63238540') format('woff'),
-       url('../font/code-gov.ttf?63238540') format('truetype'),
-       url('../font/code-gov.svg?63238540#code-gov') format('svg');
+  src: url('../font/code-gov.eot?89394658');
+  src: url('../font/code-gov.eot?89394658#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?89394658') format('woff2'),
+       url('../font/code-gov.woff?89394658') format('woff'),
+       url('../font/code-gov.ttf?89394658') format('truetype'),
+       url('../font/code-gov.svg?89394658#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
