@@ -1,0 +1,23 @@
+{
+  "name": "code-gov-font",
+  "version": "0.0.1",
+  "description": "Custom font with icons used by code-gov-web. Based on font-awesome. Built using fontello.",
+  "main": "index.js",
+  "scripts": {
+    "build": "fontello-cli install --config config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/code-gov-font.git"
+  },
+  "keywords": [
+    "code-gov"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/GSA/code-gov-font/issues"
+  },
+  "homepage": "https://github.com/GSA/code-gov-font#readme",
+  "private": true
+}
