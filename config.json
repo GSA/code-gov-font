@@ -161,6 +161,12 @@
       "css": "minus-squared-alt",
       "code": 61767,
       "src": "fontawesome"
+    },
+    {
+      "uid": "ccddff8e8670dcd130e3cb55fdfc2fd0",
+      "css": "down-open",
+      "code": 59401,
+      "src": "fontawesome"
     }
   ]
 }
