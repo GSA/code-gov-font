@@ -1,6 +1,6 @@
 {
   "name": "@code.gov/code-gov-font",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Custom font with icons used by code-gov-web. Based on font-awesome. Built using fontello.",
   "main": "index.js",
   "scripts": {

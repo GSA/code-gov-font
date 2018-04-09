@@ -167,6 +167,12 @@
       "css": "down-open",
       "code": 59401,
       "src": "fontawesome"
+    },
+    {
+      "uid": "fe6697b391355dec12f3d86d6d490397",
+      "css": "up-open",
+      "code": 59402,
+      "src": "fontawesome"
     }
   ]
 }
