@@ -173,6 +173,12 @@
       "css": "up-open",
       "code": 59402,
       "src": "fontawesome"
+    },
+    {
+      "uid": "5de9370846a26947e03f63142a3f1c07",
+      "css": "angle-up",
+      "code": 61702,
+      "src": "fontawesome"
     }
   ]
 }

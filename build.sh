@@ -2,7 +2,7 @@ echo "delete old stuff"
 rm -fr css && rm -fr font && rm -fr fontello
 
 echo "starting to build code-gov font"
-fontello-cli install --config config.json --css css --font font
+./node_modules/fontello-cli/bin/fontello-cli install --config config.json --css css --font font
 
 head README.md -n 8 > NEW_README.md
 

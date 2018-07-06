@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/GSA/code-gov-font/issues"
   },
-  "homepage": "https://github.com/GSA/code-gov-font#readme"
+  "homepage": "https://github.com/GSA/code-gov-font#readme",
+  "devDependencies": {
+    "fontello-cli": "^0.4.0"
+  }
 }
