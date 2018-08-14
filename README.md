@@ -1,5 +1,5 @@
 # code-gov-font
-Custom font with icons used by code-gov-web. Based on font-awesome. Built using fontello.
+Custom font with icons used by code-gov-web. Based on font-awesome and icon by Hadrien. Built using fontello.
 
 # install
 In order to use the font on a website, you have to install it first.
@@ -8,12 +8,12 @@ to match you folder structure.
 ```
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?4351620');
-  src: url('../font/code-gov.eot?4351620#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?4351620') format('woff2'),
-       url('../font/code-gov.woff?4351620') format('woff'),
-       url('../font/code-gov.ttf?4351620') format('truetype'),
-       url('../font/code-gov.svg?4351620#code-gov') format('svg');
+  src: url('../font/code-gov.eot?29334233');
+  src: url('../font/code-gov.eot?29334233#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?29334233') format('woff2'),
+       url('../font/code-gov.woff?29334233') format('woff'),
+       url('../font/code-gov.ttf?29334233') format('truetype'),
+       url('../font/code-gov.svg?29334233#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
