@@ -181,6 +181,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "17ebadd1e3f274ff0205601eef7b9cc4",
+      "css": "help-circled",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
       "uid": "05b73d0d509a5b3476980a69162e5a9c",
       "css": "close",
       "code": 1,
