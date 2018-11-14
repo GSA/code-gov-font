@@ -4,7 +4,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'code-gov';
-    src: url('../font/code-gov.svg?94232063#code-gov') format('svg');
+    src: url('../font/code-gov.svg?23948069#code-gov') format('svg');
   }
 }
 */
@@ -44,7 +44,6 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-close:before { content: '\1'; } /* '' */
 .icon-search:before { content: '\e800'; } /* '' */
 .icon-cancel:before { content: '\e801'; } /* '' */
 .icon-ok-circled2:before { content: '\e802'; } /* '' */
@@ -57,6 +56,7 @@
 .icon-down-open:before { content: '\e809'; } /* '' */
 .icon-up-open:before { content: '\e80a'; } /* '' */
 .icon-help-circled:before { content: '\e80c'; } /* '' */
+.icon-close:before { content: '\e80d'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-certificate:before { content: '\f0a3'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
