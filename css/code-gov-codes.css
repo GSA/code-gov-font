@@ -10,8 +10,10 @@
 .icon-floppy:before { content: '\e808'; } /* '' */
 .icon-down-open:before { content: '\e809'; } /* '' */
 .icon-up-open:before { content: '\e80a'; } /* '' */
+.icon-link:before { content: '\e80b'; } /* '' */
 .icon-help-circled:before { content: '\e80c'; } /* '' */
 .icon-close:before { content: '\e80d'; } /* '' */
+.icon-mail-1:before { content: '\e80e'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-certificate:before { content: '\f0a3'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
@@ -28,6 +30,7 @@
 .icon-angle-circled-down:before { content: '\f13a'; } /* '' */
 .icon-minus-squared-alt:before { content: '\f147'; } /* '' */
 .icon-plus-squared-alt:before { content: '\f196'; } /* '' */
+.icon-share:before { content: '\f1e0'; } /* '' */
 .icon-trash:before { content: '\f1f8'; } /* '' */
 .icon-medium:before { content: '\f23a'; } /* '' */
 .icon-hourglass-3:before { content: '\f253'; } /* '' */
