@@ -8,12 +8,12 @@ to match you folder structure.
 ```
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?26134518');
-  src: url('../font/code-gov.eot?26134518#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?26134518') format('woff2'),
-       url('../font/code-gov.woff?26134518') format('woff'),
-       url('../font/code-gov.ttf?26134518') format('truetype'),
-       url('../font/code-gov.svg?26134518#code-gov') format('svg');
+  src: url('../font/code-gov.eot?43647216');
+  src: url('../font/code-gov.eot?43647216#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?43647216') format('woff2'),
+       url('../font/code-gov.woff?43647216') format('woff'),
+       url('../font/code-gov.ttf?43647216') format('truetype'),
+       url('../font/code-gov.svg?43647216#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,7 +33,7 @@ to match you folder structure.
 6. At this point, the font has been updated. You can save & commit these changes for testing
 
 # Use
-This project is a dependency of code-gov-style. After updating this font, a new version of this package must be released and the `@code.gov/code-gov-font` version must be updated in code-gov-style. Follow our [Component Release] instructions for details on how to do this.
+This project is a dependency of code-gov-style. After updating this font, a new version of this package must be released and the `@code.gov/code-gov-font` version must be updated in code-gov-style. Follow our [Component Release](https://github.com/GSA/code-gov-front-end/wiki/Component-release-management) instructions for details on how to do this.
 *Note: After these steps have been completed, you must run `npm install` then run `npm run update-font` in code-gov-style to finish the font update. And finally, in code-gov-style, update the icon list in the `_fontello.scss` file to add any new icons and delete any that were removed.
 You can find the icon unicode character ( `{ content: '\f253'; }` ) info in the `code-gov.svg` file by searching for the name of the icon you just added. This info is also on the fontello site under the `Customize Codes` tab.
 

@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?26134518');
-  src: url('../font/code-gov.eot?26134518#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?26134518') format('woff2'),
-       url('../font/code-gov.woff?26134518') format('woff'),
-       url('../font/code-gov.ttf?26134518') format('truetype'),
-       url('../font/code-gov.svg?26134518#code-gov') format('svg');
+  src: url('../font/code-gov.eot?43647216');
+  src: url('../font/code-gov.eot?43647216#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?43647216') format('woff2'),
+       url('../font/code-gov.woff?43647216') format('woff'),
+       url('../font/code-gov.ttf?43647216') format('truetype'),
+       url('../font/code-gov.svg?43647216#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'code-gov';
-    src: url('../font/code-gov.svg?26134518#code-gov') format('svg');
+    src: url('../font/code-gov.svg?43647216#code-gov') format('svg');
   }
 }
 */
@@ -66,8 +66,10 @@
 .icon-floppy:before { content: '\e808'; } /* '' */
 .icon-down-open:before { content: '\e809'; } /* '' */
 .icon-up-open:before { content: '\e80a'; } /* '' */
+.icon-link:before { content: '\e80b'; } /* '' */
 .icon-help-circled:before { content: '\e80c'; } /* '' */
 .icon-close:before { content: '\e80d'; } /* '' */
+.icon-mail-1:before { content: '\e80e'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-certificate:before { content: '\f0a3'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
@@ -84,6 +86,7 @@
 .icon-angle-circled-down:before { content: '\f13a'; } /* '' */
 .icon-minus-squared-alt:before { content: '\f147'; } /* '' */
 .icon-plus-squared-alt:before { content: '\f196'; } /* '' */
+.icon-share:before { content: '\f1e0'; } /* '' */
 .icon-trash:before { content: '\f1f8'; } /* '' */
 .icon-medium:before { content: '\f23a'; } /* '' */
 .icon-hourglass-3:before { content: '\f253'; } /* '' */
