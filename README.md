@@ -8,12 +8,12 @@ to match you folder structure.
 ```
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?43647216');
-  src: url('../font/code-gov.eot?43647216#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?43647216') format('woff2'),
-       url('../font/code-gov.woff?43647216') format('woff'),
-       url('../font/code-gov.ttf?43647216') format('truetype'),
-       url('../font/code-gov.svg?43647216#code-gov') format('svg');
+  src: url('../font/code-gov.eot?90902143');
+  src: url('../font/code-gov.eot?90902143#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?90902143') format('woff2'),
+       url('../font/code-gov.woff?90902143') format('woff'),
+       url('../font/code-gov.ttf?90902143') format('truetype'),
+       url('../font/code-gov.svg?90902143#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,7 +25,7 @@ to match you folder structure.
 2. Execute `npm install`
 
 # Update this font 
-1. Upload the `config.json` front code-gov-font project to the fontello website.
+1. Upload the `config.json` file from code-gov-font project to the fontello website.
 2. Use the fontello site to add/remove icons as needed
 3. Name the font `code-gov` and download the new package (download webfont) as a .zip
 4. Extract the .zip and copy the new `config.json` then use it to replace the `config.json` in the code-gov-font directory
@@ -39,10 +39,8 @@ You can find the icon unicode character ( `{ content: '\f253'; }` ) info in the 
 
 Fontello has some documentation on [How to save and load projects](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects) that has additional info for reference. 
 
-<img width="1218" alt="Screen Shot 2019-06-15 at 8 46 16 AM" src="https://user-images.githubusercontent.com/2197515/59551621-4df89780-8f4a-11e9-9e04-43cda1ea5ad6.png">
-<img width="1317" alt="Screen Shot 2019-06-15 at 9 20 15 AM" src="https://user-images.githubusercontent.com/2197515/59551917-d0835600-8f4e-11e9-9522-179d6057a25d.png">
-<img width="1266" alt="Screen Shot 2019-06-15 at 9 29 45 AM" src="https://user-images.githubusercontent.com/2197515/59552062-345a4e80-8f50-11e9-8207-aeca76033604.png">
-
+<img width="1236" alt="Screen Shot 2019-10-03 at 10 58 33 AM" src="https://user-images.githubusercontent.com/2197515/66142849-32d29600-e5d4-11e9-8ace-53563e7c5987.png">
+<img width="1240" alt="Screen Shot 2019-10-03 at 10 58 27 AM" src="https://user-images.githubusercontent.com/2197515/66142850-32d29600-e5d4-11e9-934f-49798385630c.png">
 <img width="1163" alt="Screen Shot 2019-06-15 at 9 25 52 AM" src="https://user-images.githubusercontent.com/2197515/59552007-9f575580-8f4f-11e9-8f17-df35cb81fde4.png">
 
 
