@@ -4,7 +4,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'code-gov';
-    src: url('../font/code-gov.svg?43647216#code-gov') format('svg');
+    src: url('../font/code-gov.svg?90902143#code-gov') format('svg');
   }
 }
 */
@@ -60,6 +60,7 @@
 .icon-close:before { content: '\e80d'; } /* '' */
 .icon-mail-1:before { content: '\e80e'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
+.icon-github-circled:before { content: '\f09b'; } /* '' */
 .icon-certificate:before { content: '\f0a3'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
 .icon-doc-text:before { content: '\f0f6'; } /* '' */

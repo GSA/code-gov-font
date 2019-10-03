@@ -8,12 +8,12 @@ to match you folder structure.
 ```
 @font-face {
   font-family: 'code-gov';
-  src: url('../font/code-gov.eot?43647216');
-  src: url('../font/code-gov.eot?43647216#iefix') format('embedded-opentype'),
-       url('../font/code-gov.woff2?43647216') format('woff2'),
-       url('../font/code-gov.woff?43647216') format('woff'),
-       url('../font/code-gov.ttf?43647216') format('truetype'),
-       url('../font/code-gov.svg?43647216#code-gov') format('svg');
+  src: url('../font/code-gov.eot?90902143');
+  src: url('../font/code-gov.eot?90902143#iefix') format('embedded-opentype'),
+       url('../font/code-gov.woff2?90902143') format('woff2'),
+       url('../font/code-gov.woff?90902143') format('woff'),
+       url('../font/code-gov.ttf?90902143') format('truetype'),
+       url('../font/code-gov.svg?90902143#code-gov') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,7 +25,7 @@ to match you folder structure.
 2. Execute `npm install`
 
 # Update this font 
-1. Upload the `config.json` front code-gov-font project to the fontello website.
+1. Upload the `config.json` file from code-gov-font project to the fontello website.
 2. Use the fontello site to add/remove icons as needed
 3. Name the font `code-gov` and download the new package (download webfont) as a .zip
 4. Extract the .zip and copy the new `config.json` then use it to replace the `config.json` in the code-gov-font directory
