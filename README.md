@@ -39,7 +39,6 @@ You can find the icon unicode character ( `{ content: '\f253'; }` ) info in the 
 
 Fontello has some documentation on [How to save and load projects](https://github.com/fontello/fontello/wiki/How-to-save-and-load-projects) that has additional info for reference. 
 
-<img width="1300" alt="Screen Shot 2019-10-03 at 10 58 21 AM" src="https://user-images.githubusercontent.com/2197515/66142851-336b2c80-e5d4-11e9-822d-1cd5a060ac5e.png">
 <img width="1236" alt="Screen Shot 2019-10-03 at 10 58 33 AM" src="https://user-images.githubusercontent.com/2197515/66142849-32d29600-e5d4-11e9-8ace-53563e7c5987.png">
 <img width="1240" alt="Screen Shot 2019-10-03 at 10 58 27 AM" src="https://user-images.githubusercontent.com/2197515/66142850-32d29600-e5d4-11e9-934f-49798385630c.png">
 <img width="1163" alt="Screen Shot 2019-06-15 at 9 25 52 AM" src="https://user-images.githubusercontent.com/2197515/59552007-9f575580-8f4f-11e9-8f17-df35cb81fde4.png">
