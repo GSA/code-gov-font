@@ -1,7 +1,10 @@
-# code-gov-font
+# Deprecated
+This project repo is no longer being maintained.
+
+## code-gov-font
 Custom font for icons used by code-gov-web. Based on font-awesome and icon by Hadrien. Built using fontello.
 
-# Install this font
+## Install this font
 In order to use the font on a website, you have to install it first.
 There's a good chance that you will have to update the paths below
 to match you folder structure.
@@ -20,11 +23,11 @@ to match you folder structure.
 ```
 
 
-# Install (this project)
+## Install (this project)
 1. Clone the repo
 2. Execute `npm install`
 
-# Update this font 
+## Update this font 
 1. Upload the `config.json` file from code-gov-font project to the fontello website.
 2. Use the fontello site to add/remove icons as needed
 3. Name the font `code-gov` and download the new package (download webfont) as a .zip
